@@ -1,6 +1,4 @@
-
-[200~class
-WetterWarnungen {
+class WetterWarnungen {
     constructor() {
         this.abonnements = [];
     }
@@ -13,4 +11,3 @@ WetterWarnungen {
         return this.abonnements;
     }
 }
-
