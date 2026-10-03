@@ -11,3 +11,5 @@ class WetterWarnungen {
         return this.abonnements;
     }
 }
+// Letzte Änderung für den Pull Request
+// Update
